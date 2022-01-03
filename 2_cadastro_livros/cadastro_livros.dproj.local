@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/23 16:04:02.000.671,=C:\Users\TI ELIZEU\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/23 16:04:45.000.591,C:\Users\TI ELIZEU\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\TI ELIZEU\Documents\AndreFiles\delphi_codes\2_cadastro_livros\unitCadastroLivros.dfm</Transaction>
+    <Transaction>2021/12/23 16:04:45.000.591,C:\Users\TI ELIZEU\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\TI ELIZEU\Documents\AndreFiles\delphi_codes\2_cadastro_livros\unitCadastroLivros.pas</Transaction>
+    <Transaction>2021/12/23 16:04:54.000.612,C:\Users\TI ELIZEU\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\TI ELIZEU\Documents\AndreFiles\delphi_codes\2_cadastro_livros\cadastro_livros.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
